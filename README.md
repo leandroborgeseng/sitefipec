@@ -38,3 +38,7 @@ Confirmar telefone, endereço, descrição institucional e escopo dos serviços,
 https://docs.railway.com/services
 https://docs.railway.com/guides/dockerfiles
 https://docs.railway.com/guides/public-networking
+
+## Evolução institucional — versão 2
+
+Veja [a pesquisa e o plano de evolução](docs/EVOLUCAO_V2.md), com referências oficiais, melhorias implementadas, limites da validação e informações para a próxima etapa.
